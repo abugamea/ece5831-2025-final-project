@@ -23,7 +23,7 @@ This project presents a lightweight convolutional neural network (CNN) developed
 ---
 
 ## Dataset
-The dataset consists of images of hood outer panels labeled as OK or NOK based on mastic stitch quality. [Link](https://drive.google.com/drive/folders/1bB_Vq4jbzmhraG88bzgD4Bj9rJs8LnJG?usp=sharing)
+The dataset consists of images of hood outer panels labeled as OK or NOK based on mastic stitch quality. [DATASET FOLDER LINK HERE](https://drive.google.com/drive/folders/1bB_Vq4jbzmhraG88bzgD4Bj9rJs8LnJG?usp=sharing)
 
 [Google Drive (Complete Folder):](https://drive.google.com/drive/folders/1tbiM2EVUFh9XVvMdo0uaq_989nbHpJWk?usp=sharing)
 
@@ -50,12 +50,12 @@ The dataset consists of images of hood outer panels labeled as OK or NOK based o
 ---
 
 ## Project Report
-[Final Report (PDF)](https://drive.google.com/file/d/18Iv8lgMyWYv1HufnQZLmKziF_Q5D0zR0/view?usp=sharing)
+[FINAL REPORT (PDF)](https://drive.google.com/file/d/18Iv8lgMyWYv1HufnQZLmKziF_Q5D0zR0/view?usp=sharing)
 
 ---
 
 ## Presentation
-[Presentation Slides](https://docs.google.com/presentation/d/17Eda1VIVL0zWhk20hiJTZMncmsXaF9kf/edit?usp=sharing&ouid=101540443637033060443&rtpof=true&sd=true)
+[PRESENTATION SLIDES](https://docs.google.com/presentation/d/17Eda1VIVL0zWhk20hiJTZMncmsXaF9kf/edit?usp=sharing&ouid=101540443637033060443&rtpof=true&sd=true)
 
 
 Pre-recorded Presentation Video:  
