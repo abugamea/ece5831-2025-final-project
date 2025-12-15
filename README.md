@@ -16,17 +16,16 @@ This project presents a lightweight convolutional neural network (CNN) developed
 - `final-project.ipynb` – Main notebook demonstrating training, evaluation, and inference
 - `src/` – Python scripts for training and evaluation
 - `models/` – Trained model and metadata
-- `report/` – Final project report (PDF)
+- `report/` – Final project report
 - `presentation/` – Final presentation slides
-- `dataset/` – Dataset access information (external link)
+- `dataset/` – Dataset access information
 
 ---
 
 ## Dataset
-The dataset consists of images of hood outer panels labeled as OK or NOK based on mastic stitch quality.
+The dataset consists of images of hood outer panels labeled as OK or NOK based on mastic stitch quality. [Link:](https://drive.google.com/drive/folders/1bB_Vq4jbzmhraG88bzgD4Bj9rJs8LnJG?usp=sharing)
 
-📁 Google Drive (shared):
-[https://drive.google.com/drive/folders/1peGi01W_NN6MFJ8kiFkheHIGxofplcdo?usp=sharing]
+[Google Drive (Complete Folder):](https://drive.google.com/drive/folders/1tbiM2EVUFh9XVvMdo0uaq_989nbHpJWk?usp=sharing)
 
 ---
 
@@ -51,27 +50,26 @@ The dataset consists of images of hood outer panels labeled as OK or NOK based o
 ---
 
 ## Project Report
-📄 Final Report (PDF):  
-[REPORT LINK HERE]
+[Final Report (PDF):](https://drive.google.com/file/d/18Iv8lgMyWYv1HufnQZLmKziF_Q5D0zR0/view?usp=sharing)
 
 ---
 
 ## Presentation
-📊 Presentation Slides:  
-[SLIDES LINK HERE]
+[Presentation Slides:](https://docs.google.com/presentation/d/17Eda1VIVL0zWhk20hiJTZMncmsXaF9kf/edit?usp=sharing&ouid=101540443637033060443&rtpof=true&sd=true)
 
-🎥 Pre-recorded Presentation Video:  
-[PRESENTATION VIDEO LINK HERE]
+
+Pre-recorded Presentation Video:  
+[[PRESENTATION VIDEO LINK HERE](https://drive.google.com/file/d/18Iv8lgMyWYv1HufnQZLmKziF_Q5D0zR0/view?usp=sharing)]
 
 ---
 
 ## Demo Video
-🎥 Comprehensive Demo Video:  
-[DEMO VIDEO LINK HERE]
+Demo Video of Python Code:  
+[[DEMO VIDEO LINK HERE](https://youtu.be/HWxMofejkQs)]
 
 ---
 
-## Tools and Libraries
+## Tools and Libraries used in 
 - Python
 - TensorFlow / Keras
 - NumPy
@@ -80,6 +78,6 @@ The dataset consists of images of hood outer panels labeled as OK or NOK based o
 
 ---
 
-## Author
+## Student
 Ahmad Abugamea  
-ECE 5831 – Neural Networks
+ECE 5831 – Neural Networks and Pattern Recognition
