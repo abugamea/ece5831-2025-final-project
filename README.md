@@ -59,7 +59,7 @@ The dataset consists of images of hood outer panels labeled as OK or NOK based o
 
 
 Pre-recorded Presentation Video:  
-[[PRESENTATION VIDEO LINK HERE](https://drive.google.com/file/d/18Iv8lgMyWYv1HufnQZLmKziF_Q5D0zR0/view?usp=sharing)]
+[[PRESENTATION VIDEO LINK HERE](https://drive.google.com/drive/folders/1tbiM2EVUFh9XVvMdo0uaq_989nbHpJWk?usp=sharing)]
 
 ---
 
